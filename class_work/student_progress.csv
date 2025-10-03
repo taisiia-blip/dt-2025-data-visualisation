@@ -1,0 +1,91 @@
+Student,Program,Course,Competency,Hours_Studied,Grade
+Alice,Informatics,Data Science,Statistics,12,88
+Alice,Informatics,Data Science,Programming,11,84
+Alice,Informatics,Data Science,Machine Learning,13,90
+Alice,Informatics,Data Science,Data Visualization,10,82
+Alice,Informatics,Data Science,Big Data,14,92
+Bob,Informatics,Data Science,Statistics,10,75
+Bob,Informatics,Data Science,Programming,9,72
+Bob,Informatics,Data Science,Machine Learning,14,80
+Bob,Informatics,Data Science,Data Visualization,8,70
+Bob,Informatics,Data Science,Big Data,11,77
+Clara,Education,Education,Pedagogy,14,92
+Clara,Education,Education,Assessment,12,85
+Clara,Education,Education,Curriculum Design,13,89
+Clara,Education,Education,Learning Analytics,15,93
+David,Education,Education,Pedagogy,10,70
+David,Education,Education,Assessment,9,68
+David,Education,Education,Curriculum Design,11,74
+David,Education,Education,Learning Analytics,12,76
+Ella,Informatics,Data Science,Statistics,15,95
+Ella,Informatics,Data Science,Programming,13,90
+Ella,Informatics,Data Science,Machine Learning,14,92
+Ella,Informatics,Data Science,Data Visualization,12,88
+Ella,Informatics,Data Science,Big Data,16,96
+Frank,Education,Education,Pedagogy,11,85
+Frank,Education,Education,Assessment,10,80
+Frank,Education,Education,Curriculum Design,12,83
+Frank,Education,Education,Learning Analytics,13,86
+Gina,Informatics,Data Science,Statistics,8,78
+Gina,Informatics,Data Science,Programming,9,74
+Gina,Informatics,Data Science,Machine Learning,11,82
+Gina,Informatics,Data Science,Data Visualization,7,68
+Gina,Informatics,Data Science,Big Data,10,80
+Hugo,Education,Education,Pedagogy,13,90
+Hugo,Education,Education,Assessment,12,88
+Hugo,Education,Education,Curriculum Design,14,91
+Hugo,Education,Education,Learning Analytics,15,94
+Ingrid,Informatics,Data Science,Statistics,16,98
+Ingrid,Informatics,Data Science,Programming,15,95
+Ingrid,Informatics,Data Science,Machine Learning,14,92
+Ingrid,Informatics,Data Science,Data Visualization,13,89
+Ingrid,Informatics,Data Science,Big Data,17,99
+Jack,Education,Education,Pedagogy,8,72
+Jack,Education,Education,Assessment,7,65
+Jack,Education,Education,Curriculum Design,9,70
+Jack,Education,Education,Learning Analytics,10,75
+Katrin,Informatics,Data Science,Statistics,9,72
+Katrin,Informatics,Data Science,Programming,8,70
+Katrin,Informatics,Data Science,Machine Learning,10,76
+Katrin,Informatics,Data Science,Data Visualization,11,78
+Katrin,Informatics,Data Science,Big Data,12,80
+Leo,Education,Education,Pedagogy,12,88
+Leo,Education,Education,Assessment,11,85
+Leo,Education,Education,Curriculum Design,13,90
+Leo,Education,Education,Learning Analytics,14,92
+Maria,Informatics,Data Science,Statistics,14,92
+Maria,Informatics,Data Science,Programming,13,88
+Maria,Informatics,Data Science,Machine Learning,15,94
+Maria,Informatics,Data Science,Data Visualization,12,86
+Maria,Informatics,Data Science,Big Data,16,97
+Nikolai,Education,Education,Pedagogy,10,83
+Nikolai,Education,Education,Assessment,9,80
+Nikolai,Education,Education,Curriculum Design,12,85
+Nikolai,Education,Education,Learning Analytics,11,82
+Oskar,Informatics,Data Science,Statistics,11,80
+Oskar,Informatics,Data Science,Programming,10,78
+Oskar,Informatics,Data Science,Machine Learning,12,84
+Oskar,Informatics,Data Science,Data Visualization,9,76
+Oskar,Informatics,Data Science,Big Data,13,86
+Paula,Education,Education,Pedagogy,15,94
+Paula,Education,Education,Assessment,13,90
+Paula,Education,Education,Curriculum Design,14,92
+Paula,Education,Education,Learning Analytics,16,96
+Rasmus,Informatics,Data Science,Statistics,7,68
+Rasmus,Informatics,Data Science,Programming,8,70
+Rasmus,Informatics,Data Science,Machine Learning,9,72
+Rasmus,Informatics,Data Science,Data Visualization,10,74
+Rasmus,Informatics,Data Science,Big Data,11,76
+Sandra,Education,Education,Pedagogy,13,89
+Sandra,Education,Education,Assessment,12,87
+Sandra,Education,Education,Curriculum Design,14,91
+Sandra,Education,Education,Learning Analytics,15,93
+Tomas,Informatics,Data Science,Statistics,12,85
+Tomas,Informatics,Data Science,Programming,11,83
+Tomas,Informatics,Data Science,Machine Learning,13,88
+Tomas,Informatics,Data Science,Data Visualization,10,82
+Tomas,Informatics,Data Science,Big Data,14,90
+Ursula,Education,Education,Pedagogy,8,74
+Ursula,Education,Education,Assessment,9,72
+Ursula,Education,Education,Curriculum Design,10,78
+Ursula,Education,Education,Learning Analytics,11,80
